@@ -1,0 +1,56 @@
+*{
+    text-align: center;
+}
+
+
+footer,header{
+        background-color: green;
+        padding: 0.5em;
+    margin: 1px;
+     color: white;
+    border-radius: 1em;
+    margin-top: 1em;
+}
+header{
+    font-size: 120%;
+
+    margin-bottom: 1em;
+   
+}
+.home{
+    color: white;
+}
+#table {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#table td, #table th {
+  padding: 8px;
+            border:1px solid black;
+}
+
+#table tr:nth-child(odd){background-color: darkgrey;}
+
+#table td:hover {background-color: darkgreen;}
+
+#table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: green;
+  color: white;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: white;
+}
+#operations{
+    padding: 1em;
+}
+
