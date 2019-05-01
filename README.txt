@@ -1,5 +1,10 @@
-LAB01-03
+LAB01-03 - GRADE = 20/20 = 100%
 Due: Friday 15th March 12am
+
+server = "XXX.XXX.IE"
+database = "XXXX_XXXX"
+username = "XXXX"
+password = "XXXXXXXX"
 
 117303363
 Colin Kelleher
