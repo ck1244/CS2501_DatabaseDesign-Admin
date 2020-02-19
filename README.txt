@@ -1,71 +1,71 @@
-LAB01-03 - GRADE = 20/20 = 100%
-Due: Friday 15th March 12am
+## LAB01-03 - GRADE = 20/20 = 100%
+### Due: Friday 15th March 12am
 
-server = "XXX.XXX.IE"
-database = "XXXX_XXXX"
-username = "XXXX"
-password = "XXXXXXXX"
+> server = "XXX.XXX.IE"
+> database = "XXXX_XXXX"
+> username = "XXXX"
+> password = "XXXXXXXX"
 
-117303363
+
 Colin Kelleher
 
-Link to homepage:
-	https://cs1.ucc.ie/~ck15/cgi-bin/databases/index.html
+homepage:
+	index.html
 
 *****************************************************************************************
 Staff Operations:
-	https://cs1.ucc.ie/~ck15/cgi-bin/databases/StaffOperations/staffoperations.html
+	staffoperations.html
 	
 	Queries:
-		https://cs1.ucc.ie/~ck15/cgi-bin/databases/StaffOperations/staffbyid.php
-		https://cs1.ucc.ie/~ck15/cgi-bin/databases/StaffOperations/staffbyLname.php
-		https://cs1.ucc.ie/~ck15/cgi-bin/databases/StaffOperations/searchsalary.php
-		https://cs1.ucc.ie/~ck15/cgi-bin/databases/StaffOperations/employeebranch.php
+		staffbyid.php
+		staffbyLname.php
+		searchsalary.php
+		employeebranch.php
 
 	Insert:
-		https://cs1.ucc.ie/~ck15/cgi-bin/databases/StaffOperations/insertstaff.php
+		insertstaff.php
 	
 	Update:
-		https://cs1.ucc.ie/~ck15/cgi-bin/databases/StaffOperations/updatephn.php
-		https://cs1.ucc.ie/~ck15/cgi-bin/databases/StaffOperations/updatesalary.php
-		https://cs1.ucc.ie/~ck15/cgi-bin/databases/StaffOperations/updatebranch.php
-		https://cs1.ucc.ie/~ck15/cgi-bin/databases/StaffOperations/updateaddress.php
+		updatephn.php
+		updatesalary.php
+		updatebranch.php
+		updateaddress.php
 
 	Remove:
-		https://cs1.ucc.ie/~ck15/cgi-bin/databases/StaffOperations/removestaff.php
+		removestaff.php
 **********************************************************************************************
 Branch Operations:
-	https://cs1.ucc.ie/~ck15/cgi-bin/databases/BranchOperations/branchoperations.html
+	branchoperations.html
 
 	Queries:
-		https://cs1.ucc.ie/~ck15/cgi-bin/databases/BranchOperations/RentalBranch.php
-		https://cs1.ucc.ie/~ck15/cgi-bin/databases/BranchOperations/branchdetails.php
-		https://cs1.ucc.ie/~ck15/cgi-bin/databases/BranchOperations/staffbranch.php
+		RentalBranch.php
+		branchdetails.php
+		staffbranch.php
 
 	Insert:
-		https://cs1.ucc.ie/~ck15/cgi-bin/databases/BranchOperations/insertbranch.php
+		insertbranch.php
 
 	Update:
-		https://cs1.ucc.ie/~ck15/cgi-bin/databases/BranchOperations/branchrelocation.php
-		https://cs1.ucc.ie/~ck15/cgi-bin/databases/BranchOperations/updatephnbranch.php
+		branchrelocation.php
+		updatephnbranch.php
 		
 	Remove:
-		https://cs1.ucc.ie/~ck15/cgi-bin/databases/BranchOperations/removebranch.php
+		removebranch.php
 ***********************************************************************************************
 Property Operations:
-	https://cs1.ucc.ie/~ck15/cgi-bin/databases/PropertyOperations/propertyoperations.html
+	propertyoperations.html
 
 	Queries:
-		https://cs1.ucc.ie/~ck15/cgi-bin/databases/PropertyOperations/propertyprice.php
+		propertyprice.php
 
 	Insert:
-		https://cs1.ucc.ie/~ck15/cgi-bin/databases/PropertyOperations/insertproperty.php
+		insertproperty.php
 
 	Update:
-		https://cs1.ucc.ie/~ck15/cgi-bin/databases/PropertyOperations/updaterent.php
+		updaterent.php
 
 	Remove:
-		https://cs1.ucc.ie/~ck15/cgi-bin/databases/PropertyOperations/removeproperty.php
+		removeproperty.php
 
 
 	
